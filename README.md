@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently trying to improve my coding skillz.
-📫 How to reach me: https://www.linkedin.com/in/holovyanko/
+- 🌱 I’m currently trying to improve my coding skillz.
+- 📫 How to reach me: https://www.linkedin.com/in/holovyanko/
 
 
 
